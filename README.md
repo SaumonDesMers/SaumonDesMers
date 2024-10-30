@@ -8,3 +8,5 @@ Passionate about algorithms and opimisation, I discovered graphics programming a
 
 ## Sneak peek into my projects 👀
 ![image](https://github.com/user-attachments/assets/de627064-51f3-4023-b022-23a8e92deeb1)
+![image](https://github.com/user-attachments/assets/22c1ab60-038f-4661-aa1b-270988850f54)
+
