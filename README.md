@@ -4,7 +4,7 @@
 
 ## Whoami
 
-Passionate about algorithms and opimisation, I discovered graphics programming a bit by chance, and since then I've had a lot of fun because it's a field that encourages us to make the most of every computer resource. And when the result is a beautifully lit scene, it's a joy to behold.
+Passionate about algorithms and opimisation, I've had a lot of fun ever since I discovered graphics programming. I love that it's a field that encourages us to make the most of every computer resource. And when the result is a beautifully lit scene, it's a joy to behold.
 
 ## Sneak peek into my projects 👀
 ![image](https://github.com/user-attachments/assets/de627064-51f3-4023-b022-23a8e92deeb1)
